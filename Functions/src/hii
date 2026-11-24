@@ -1,0 +1,11 @@
+// var a = document.querySelector('h1');
+
+// function hero(){
+//     console.log('Hello guys Iam Nikita Turkar');
+// }
+
+// a.addEventListener('click',hero);
+
+// a.addEventListener('click',function(){
+//     console.log('hello');
+// })
